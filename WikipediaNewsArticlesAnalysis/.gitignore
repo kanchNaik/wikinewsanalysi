@@ -1,0 +1,4 @@
+# Backend/wikinews/wikinews/venv/*
+# venv/Scripts/*
+# Backend/wikinews/wikinews_app/__pycache__/*
+Frontend/wikinewsapp/node_modules
