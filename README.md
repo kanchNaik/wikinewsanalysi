@@ -61,12 +61,11 @@ WikiNews Insights is a real-time analytical tool that establishes a correlation 
 - Explore trending Wikipedia topics and their correlated news articles.
 - View summarized news content for deeper insights.
 
-## Contribution
-We welcome contributions! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature/fix.
-3. Commit your changes with clear messages.
-4. Push to your fork and submit a Pull Request.
+## Contributors
+- Yashasvi Kanchugantla
+- Kanchan Ashok Naik
+- Mrunali Katta
+- Prasad Simpatwar
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
