@@ -29,7 +29,7 @@ WikiNews Insights is a real-time analytical tool that establishes a correlation 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Yashasvi1225/WikipediaNewsArticlesAnalysis.git
+   https://github.com/kanchNaik/wikinewsanalysi.git
    ```
 2. Navigate to the project directory:
    ```sh
