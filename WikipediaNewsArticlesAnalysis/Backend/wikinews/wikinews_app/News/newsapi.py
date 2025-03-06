@@ -1,9 +1,9 @@
 import requests
 
 class NewsAPI:
-    NEWS_API_KEY = "f049190b6b744976b46acc21a25972f9"
+    NEWS_API_KEY = ""
     def __init__(self):
-        self.NEWS_API_KEY = "f049190b6b744976b46acc21a25972f9"
+        self.NEWS_API_KEY = ""
 
     def get_news(self, page):
         extracted_data_list = []
