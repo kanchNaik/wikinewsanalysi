@@ -1,8 +1,8 @@
 import requests
 class MarketauxAPI:
-    MARKET_AUX_API_KEY = "TFCpiF4MR8mkme7nrql0RjS8PLsELCUtW6RsUAkD"
+    MARKET_AUX_API_KEY = ""
     def __init__(self):
-        self.MARKET_AUX_API_KEY = "TFCpiF4MR8mkme7nrql0RjS8PLsELCUtW6RsUAkD"
+        self.MARKET_AUX_API_KEY = ""
 
     def get_news(self, page):
         base_url = f"https://api.marketaux.com/v1/news/all?symbols={page}&filter_entities=true&language=en&api_token={self.MARKET_AUX_API_KEY}"
